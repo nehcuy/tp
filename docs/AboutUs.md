@@ -5,38 +5,37 @@ title: About Us
 
 We are a team based in the [School of Computing, National University of Singapore](http://www.comp.nus.edu.sg).
 
-You can reach us at the email `seer[at]comp.nus.edu.sg`
+You can reach us at the email `peiyee88@nus.edu.sg` or `xxxxx@nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Pei Yee Cheng
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/peiyee88.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Project Advisor
-
-### Jane Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Team Lead
-* Responsibilities: UI
-
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/peiyee88)]
+[[portfolio](team/peiyee88.md)]
 
 * Role: Developer
-* Responsibilities: Data
+
+### Kartikeya -
+
+<img src="images/Kartikeya_ProfilePicture.JPG" width="200px">
+
+([github](http://github.com/kxrt))
+([portfolio](team/kxrt.md))
+
+* Role: Developer
+
+### Zhehao
+
+<img src="images/charles1026.png" width="200px">
+
+([github](http://github.com/Charles1026))
+[[portfolio](team/charles1026.md)]
+
+* Role: Developer
+* Responsibilities: Sandbagging
 
 ### Jean Doe
 
